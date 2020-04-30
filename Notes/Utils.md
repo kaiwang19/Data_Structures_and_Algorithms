@@ -7,6 +7,7 @@ dir
 ls
 
 
- CTRL+K, CTRL+C
- CTRL+K, CTRL+U
-
+# Keyboard shortcuts for Windows
+Change to Comments : CTRL+K  or  CTRL+/
+Change from Comments : CTRL+Q  or  CTRL+/
+Shift+Alt+F : Format

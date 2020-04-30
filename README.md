@@ -33,10 +33,10 @@ The language was updated 3 major times in:
 + hashing
 + multiway trees
 + B Trees
-+ grapghs
++ graghs
 + sorting
 + searching
++ string matching
 + data compression
 + memory management
-+ string matching
 

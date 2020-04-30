@@ -30,9 +30,9 @@ The language was updated 3 major times in:
 + dictionaries
 + recursion
 + binary trees
-+ hashing
 + multiway trees
 + B Trees
++ hashing
 + graghs
 + sorting
 + searching

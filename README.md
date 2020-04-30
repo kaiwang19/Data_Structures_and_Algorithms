@@ -5,7 +5,7 @@ Based on the following materials:
 + [Book] "C++ Primer, 5th Edition"  -- Stantley B. Lippman, Josee Lajoie, Barbara E. Moo, 2013  
 + [Web] C++ Tutorial - official  http://www.cplusplus.com/doc/tutorial/
 + [Web] C++ Tutorial - w3schools https://www.w3schools.com/cpp  
-+ [Web] C++ Tutorial - beginners https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/
++ [Web] Stack Overflow https://stackoverflow.com/questions
 
 ---
 ## Brief Introduction of C++

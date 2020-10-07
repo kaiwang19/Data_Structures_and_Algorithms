@@ -21,7 +21,7 @@ The language was updated 3 major times in:
 ---
 ## Schedule  
 
-+ datatype
++ basic C++ usage
 + arrays
 + linked list
 + stacks

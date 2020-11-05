@@ -4,6 +4,10 @@
         "cmath": "cpp",
         "xstring": "cpp",
         "istream": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp"
     }
 }

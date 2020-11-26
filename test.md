@@ -56,19 +56,19 @@ Check the res/ directory for files restoring results.
 
 ## Results
   * Indian Pines
-![Indian Pines Accuracy](Figures/Acc1.png)
+![Indian Pines Accuracy](Notes/Acc1.png)
 
   * Salinas
-![Salinas Accuracy](Figures/Acc2.png)
+![Salinas Accuracy](Notes/Acc2.png)
 
   * Pavia Center
-![Pavia Center Accuracy](Figures/Acc3.png)
+![Pavia Center Accuracy](Notes/Acc3.png)
 
   * Pavia University
-![Pavia University Accuracy](Figures/Acc4.png)
+![Pavia University Accuracy](Notes/Acc4.png)
 
   * KSC
-![KSC Accuracy](Figures/Acc5.png)
+![KSC Accuracy](Notes/Acc5.png)
 
   * Time Elapsed
-![Time Elapsed](Figures/Time.png)
+![Time Elapsed](Notes/Time.png)
